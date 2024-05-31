@@ -88,3 +88,4 @@ python-json-logger==2.0.7
 python-socketio==5.10.0
 pytz==2023.3.post1
 gunicorn
+scikit-learn
