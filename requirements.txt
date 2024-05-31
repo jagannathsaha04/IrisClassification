@@ -89,3 +89,7 @@ python-socketio==5.10.0
 pytz==2023.3.post1
 gunicorn
 scikit-learn
+Flask
+gunicorn
+joblib
+scikit-learn
